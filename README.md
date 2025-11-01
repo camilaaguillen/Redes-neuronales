@@ -17,3 +17,8 @@ Después, en Jupyter, se cargan imágenes personalizadas (fondo blanco, letra ne
 Por último, se ejecuta real_time_prediction.py para usar la cámara y predecir los dígitos que se muestren en pantalla.  
 Presiona **q** para cerrar la cámara.
 
+- [Reporte COLAB formato ipynb](./colab.ipynb)
+- [Reporte COLAB formato html](./htmlcolab.html)
+- [Reporte JUPYTER formato ipynb](./jupyter.ipynb)
+- [Reporte JUPYTER formato html](./jupyter.html)
+
